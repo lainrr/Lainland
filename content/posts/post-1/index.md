@@ -1,6 +1,6 @@
 +++
 date = '2025-10-03T08:24:44+01:00'
-draft = true
+draft = false
 title = "Why I'm starting a personal blog in 2025"
 
 summary = 'Social media, the small web, and RSS feeds'
