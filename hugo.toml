@@ -51,6 +51,10 @@ home = "Home"
 # name = "linkedin"
 # url = "https://www.linkedin.com/in/user/"
 
+[[params.social]]
+name = 'rss'
+url = 'https://www.lainrr.github.io/lainland/index.xml'
+
 # Main menu pages
 [[params.menu]]
 name = "home"
@@ -91,7 +95,6 @@ faviconpath = '/favicon/favicon.ico'
   [caches.images]
     dir = ':cacheDir/images'
 
-[outputs]
-home = ['html','rss']
-section = ['html', 'rss']
 
+
+rssLimit = 15
