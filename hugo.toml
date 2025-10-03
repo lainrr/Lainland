@@ -1,5 +1,5 @@
 baseURL = 'https://lainrr.github.io/lainland/'
-languageCode = 'en-us'
+languageCode = 'en-uk'
 title = 'Lainland'
 theme = 'typo'
 
@@ -9,7 +9,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "A Personal Blog"
 
 # Appearance settings
 theme = 'auto'
@@ -25,7 +25,7 @@ homeIntroTitle = 'Hi!'
 homeIntroContent = """
 Welcome to Lainland.
 
-This is a personal blog where I write about my interests (see [tags](lainland/tags)), including astronomy and space, fibre arts (mainly spinning and knitting at the moment), baking, chronic illness and disability justice, and whatever's on my mind.
+This is a personal blog where I write (or will write) about my interests (see [tags](/tags)), including astronomy and space, fibre arts, baking, chronic illness and disability justice, and whatever's on my mind.
 """
 
 # Collection to display on home
@@ -42,7 +42,7 @@ singleDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
 [params.breadcrumbs]
-enabled = true
+enabled = false
 showCurrentPage = true
 home = "Home"
 
@@ -72,6 +72,9 @@ url = "/lainland/about"
 name = "tags"
 url = "/lainland/tags"
 
+[[params.favicon]]
+url = "/favicon.ico"
+
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
@@ -87,9 +90,7 @@ categoryid = "categoryId"
 mapping = "pathname"
 theme = "preferred_color_scheme"
 
-# SET UP FAVICON
-faviconpath = '/favicon/favicon.ico'
-# see https://tomfran.github.io/typo-wiki/features/other-parameters/
+
 
 [caches]
   [caches.images]
