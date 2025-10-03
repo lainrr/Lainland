@@ -1,0 +1,86 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Lainland'
+theme = 'typo'
+
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'base16-mocha'
+hideHeader = false
+showFooter = true
+footerContent = "This is a footer"
+
+
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+Welcome to Lainland.
+
+This is a personal blog where I write about my interests (see tags), including astronomy and space, fibre arts (mainly spinning and knitting at the moment), baking, chronic illness and disability justice, and whatever's on my mind.
+
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Single page parameters
+singleDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
+
+# Social icons
+# [[params.social]]
+# name = "linkedin"
+# url = "https://www.linkedin.com/in/user/"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
+
+# SET UP FAVICON
+# faviconpath = 'path'
+# see https://tomfran.github.io/typo-wiki/features/other-parameters/
+

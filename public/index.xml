@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Lainland</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Lainland</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Oct 2025 08:24:44 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I&#39;m starting a personal blog in 2025</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Fri, 03 Oct 2025 08:24:44 +0100</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>Social media, the small web, and RSS feeds</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Lain is a person. This is their personal blog.&lt;/p&gt;&#xA;&lt;p&gt;They live in Scotland with their lovely partner and stinker of a cat.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
