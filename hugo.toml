@@ -88,3 +88,6 @@ theme = "preferred_color_scheme"
 # faviconpath = 'path'
 # see https://tomfran.github.io/typo-wiki/features/other-parameters/
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
