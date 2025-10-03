@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lainrr.github.io/lainland/'
 languageCode = 'en-us'
 title = 'Lainland'
 theme = 'typo'
@@ -16,7 +16,7 @@ theme = 'auto'
 colorPalette = 'base16-mocha'
 hideHeader = false
 showFooter = true
-footerContent = "This is a footer"
+footerContent = "Copywrite 2025"
 
 
 
@@ -26,7 +26,6 @@ homeIntroContent = """
 Welcome to Lainland.
 
 This is a personal blog where I write about my interests (see tags), including astronomy and space, fibre arts (mainly spinning and knitting at the moment), baking, chronic illness and disability justice, and whatever's on my mind.
-
 """
 
 # Collection to display on home
@@ -57,9 +56,9 @@ home = "Home"
 name = "home"
 url = "/"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+#[[params.menu]]
+#name = "posts"
+#url = "/posts"
 
 [[params.menu]]
 name = "about"
@@ -85,7 +84,7 @@ mapping = "pathname"
 theme = "preferred_color_scheme"
 
 # SET UP FAVICON
-# faviconpath = 'path'
+faviconpath = '/favicon/favicon.ico'
 # see https://tomfran.github.io/typo-wiki/features/other-parameters/
 
 [caches]
