@@ -65,6 +65,10 @@ url = "/posts"
 name = "about"
 url = "/about"
 
+[[params.menu]]
+name = "tags"
+url = "/tags"
+
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
