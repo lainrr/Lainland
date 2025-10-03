@@ -25,7 +25,7 @@ homeIntroTitle = 'Hi!'
 homeIntroContent = """
 Welcome to Lainland.
 
-This is a personal blog where I write about my interests (see tags), including astronomy and space, fibre arts (mainly spinning and knitting at the moment), baking, chronic illness and disability justice, and whatever's on my mind.
+This is a personal blog where I write about my interests (see [tags](/tags)), including astronomy and space, fibre arts (mainly spinning and knitting at the moment), baking, chronic illness and disability justice, and whatever's on my mind.
 """
 
 # Collection to display on home
