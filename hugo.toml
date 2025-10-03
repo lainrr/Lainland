@@ -54,19 +54,19 @@ home = "Home"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/"
+url = "/lainland/"
 
 #[[params.menu]]
 #name = "posts"
-#url = "/posts"
+#url = "/lainland/posts"
 
 [[params.menu]]
 name = "about"
-url = "/about"
+url = "/lainland/about"
 
 [[params.menu]]
 name = "tags"
-url = "/tags"
+url = "/lainland/tags"
 
 # Syntax highlight on code blocks
 [markup]
