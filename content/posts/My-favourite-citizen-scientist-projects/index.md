@@ -74,9 +74,7 @@ Researchers in Camargue, Southern France plant cameras in the Eurasian Spoonbill
 
 Plus, the birds are hilarious.
 
-## ![Funny photo of a spoonbill biting the camera.](Spoony.png)
-
----
+![Funny photo of a spoonbill biting the camera.](Spoony.png)
 
 In all of these projects, you will need to do a bit of guesswork. It can be tempting to say "I'm not sure if this is right, I'll just skip this one", but it's worth noting that every photo/video/piece of data is classified by multiple volunteers, so if you're wrong someone will catch it. It's much more helpful to give your best guess.
 
