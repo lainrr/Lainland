@@ -29,13 +29,13 @@ Basically, an exoplanet transits if its orbit around its star aligns so it passe
 
 [The first exoplanet](https://en.wikipedia.org/wiki/51_Pegasi_b) was discovered in 1995 and as of writing we've found [7762 exoplanets](https://exoplanet.eu/home/)! Let's find some more!
 
-![](NGTS.png)
+![Discover hidden worlds with the Next Generation Transit Survey](NGTS.png)
 
 ## [Sudan Road Access](https://www.zooniverse.org/projects/alicemead/sudan-road-access-logistics-cluster)
 
 In this project, you use satellite images to identify wadis (dry river beds) in Sudan. This helps humanitarian aid drivers avoid the rivers when they flood and block roads.
 
-![](SudanRoadAccess.png)
+![A screenshot showing satellite images of Sudan, with roads and wadis visible.](SudanRoadAccess.png)
 
 From the project description:
 
@@ -46,15 +46,15 @@ This project is 93% complete as of writing, but I believe they add more images t
 
 ## [Spyfish Aotearoa](https://www.zooniverse.org/projects/victorav/spyfish-aotearoa)
 
-![](SpyfishAotearoa.png)
+![Kia ora and welcome to Aotearoa New Zealand's underwater world! Discover, count and identify unique fish species from marine reserves.](SpyfishAotearoa.png)
 
 This one is a challenge and really gratifying when you start to get it! Watch 10 second underwater clips of fish, then identify how many of what species are there. Theres a field guide to help you identify fish species and it gets easier as you go along.
 
-![](SpyfishAotearoa2.png)
+![A screenshot of the project's interface. A video with a fish is paused and there is a red square around the fish. There is another image of a fish labeled 'Blue cod'. There is an arrow to the fish in the video and text: I found him!](SpyfishAotearoa2.png)
 
 ## [Black Hole Hunters](https://www.zooniverse.org/projects/cobalt-lensing/black-hole-hunters)
 
-![](BlackHoleHunters.png)
+![Illustration of a black hole. Text: Making the invisible visible.](BlackHoleHunters.png)
 
 Black holes are fucking sick.
 
@@ -64,17 +64,17 @@ Black holes are fucking sick.
 
 I really like belugas. Probably because of [the Raffi song](https://www.youtube.com/watch?v=mIBY-LQYkVA).
 
-![](BelugaBits.png)
+![Image of beluga whales swimming underwater. Text: Examine underwater photos of wild beluga whales and help us identify the age, sex, and group size. We also need keen eyes to look for identifying marks to recognize beluga that return to this location year after year.](BelugaBits.png)
 
 # [Where is Spoony?](https://www.zooniverse.org/projects/hugo-ferreira/where-is-spoony)
 
 Researchers in Camargue, Southern France plant cameras in the Eurasian Spoonbill's breeding area and tag the birds with individual codes. You get to review stills and try to identify the codes. It's a bit like Where's Waldo/Wally spotting the little tags on the birds' legs. I find it rewarding.
 
-![](Spoonbills.png)
+![Three stills from video showing spoonbills standing and sitting on the ground.](Spoonbills.png)
 
 Plus, the birds are hilarious.
 
-## ![](Spoony.png)
+## ![Funny photo of a spoonbill biting the camera.](Spoony.png)
 
 ---
 
