@@ -47,13 +47,13 @@ showCurrentPage = true
 home = "Home"
 
 # Social icons
-# [[params.social]]
-# name = "linkedin"
-# url = "https://www.linkedin.com/in/user/"
-
 [[params.social]]
 name = 'rss'
 url = 'https://www.lainrr.github.io/lainland/index.xml'
+
+[[params.social]]
+name = 'mail'
+url = 'mailto:lainland0@proton.me'
 
 # Main menu pages
 [[params.menu]]
@@ -90,4 +90,4 @@ style = 'algol'
 
 
 
-rssLimit = 15
+# rssLimit = 15
