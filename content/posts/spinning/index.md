@@ -1,6 +1,6 @@
 +++
 date = '2025-10-08T14:42:32+01:00'
-draft = true
+draft = false
 title = "My new fibre hobby"
 
 summary = "Why buy yarn when you can buy a whole sheep's fleece?"

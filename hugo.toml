@@ -49,7 +49,7 @@ home = "Home"
 # Social icons
 [[params.social]]
 name = 'rss'
-url = 'https://www.lainrr.github.io/lainland/index.xml'
+url = 'https://www.lainrr.github.io/lainland/rss.xml'
 
 [[params.social]]
 name = 'mail'
