@@ -52,3 +52,5 @@ Top left: carded undercoat ready to spin_
 It's a really beautiful fleece with a lot of colour variation and the undercoat is so so soft.
 
 I have plans for both the undercoat and the outercoat - more on that next time!
+
+> Edit: In an earlier version of this post, I forgot to talk about the price of fleeces. Obviously they're a lot cheaper than their weight in yarn. While the different yarns for my cardigan cost between £10 and £30 per 100g, the whole fleece plus the wash and dry service cost £25.

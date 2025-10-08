@@ -47,9 +47,9 @@ showCurrentPage = true
 home = "Home"
 
 # Social icons
-[[params.social]]
-name = 'rss'
-url = 'https://www.lainrr.github.io/lainland/rss.xml'
+#[[params.social]]
+#name = 'rss'
+#url = 'https://www.lainrr.github.io/lainland/rss.xml'
 
 [[params.social]]
 name = 'mail'
