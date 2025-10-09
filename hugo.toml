@@ -49,7 +49,7 @@ home = "Home"
 # Social icons
 #[[params.social]]
 #name = 'rss'
-#url = 'https://www.lainrr.github.io/lainland/rss.xml'
+#url = '/index.xml'
 
 [[params.social]]
 name = 'mail'
@@ -58,19 +58,19 @@ url = 'mailto:lainland0@proton.me'
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/lainland/"
+url = "/"
 
 #[[params.menu]]
 #name = "posts"
-#url = "/lainland/posts"
+#url = "/posts"
 
 [[params.menu]]
 name = "about"
-url = "/lainland/about"
+url = "/about"
 
 [[params.menu]]
 name = "tags"
-url = "/lainland/tags"
+url = "/tags"
 
 [[params.favicon]]
 url = "/favicon.ico"
