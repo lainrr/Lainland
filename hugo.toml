@@ -22,9 +22,9 @@ footerContent = "Copywrite 2025"
 goatcounter= "lainland"
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Welcome!'
 homeIntroContent = """
-Welcome to Lainland.
+
 
 This is a personal blog where I write (or will write) about my interests, including astronomy and space, fibre arts, baking, chronic illness and disability justice, and whatever's on my mind.
 """
