@@ -18,7 +18,8 @@ hideHeader = false
 showFooter = true
 footerContent = "Copywrite 2025"
 
-
+# Analytics
+goatcounter= "lainland"
 
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
